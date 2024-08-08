@@ -81,7 +81,7 @@ function Hero() {
           <div className=" flex justify-center items-center gap-4 w-full max-w-[200px] sm:max-w-[250px] mx-auto py-4">
             <div className=" h-[1px] w-[18px] bg-[#d12f1c] hidden sm:block"></div>
             <a
-              href="https://www.dextools.io/app/en/solana"
+              href="https://www.dextools.io/app/en/solana/pair-explorer/DzgQUFcDj71ZjDFqJzMY5kDzvEbRNHKNpyuCu27Puaxk?t=1723129415195"
               className=" mx-auto font-dream box-s2  text-lg text-white bg-[#000000] hover:bg-[#1a4093] rounded-xl p-1 px-2 border-2 border-[#d12f1c]  hover:text-[#fff] text-center font-bold uppercase"
             >
               {" "}

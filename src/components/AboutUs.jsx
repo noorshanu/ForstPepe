@@ -47,7 +47,7 @@ function AboutUs() {
 
             <div className=" m-4 mx-auto flex justify-center">
               <a
-                href="#"
+                href="https://www.dextools.io/app/en/solana/pair-explorer/DzgQUFcDj71ZjDFqJzMY5kDzvEbRNHKNpyuCu27Puaxk?t=1723129415195"
                 className=" mx-auto font-dream  text-base text-white bg-[#000000] hover:bg-[#1a4093]
               flex items-center gap-2 
               rounded-full py-2 px-6 border-2 border-[#d12f1c]  hover:text-[#fff] text-center font-bold
