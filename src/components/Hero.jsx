@@ -4,7 +4,7 @@ import CopyAddress from "./CopyAddress";
 
 function Hero() {
   return (
-    <section className="  h-[100%] sm:h-[100vh] ">
+    <section className="  ">
       <div className=" container-wrapper pt-[25%] sm:pt-[5%]  overflow-hidden relative">
         <div>
         
