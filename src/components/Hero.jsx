@@ -88,14 +88,14 @@ function Hero() {
               <img src="/images/dex.png" alt="" className=" h-[30px] w-auto" />
             </a>
             <a
-              href="https://t.me/"
+              href="https://t.me/snowpepe_sol"
               className=" mx-auto font-dream box-s2  text-3xl text-white bg-[#000000] hover:bg-[#1a4093] rounded-xl p-1 border-2 border-[#d12f1c]  hover:text-[#fff]  text-center font-bold uppercase"
             >
               {" "}
               <BsTelegram />{" "}
             </a>
             <a
-              href="https://x.com/"
+              href="https://x.com/SnowPepe_Sol"
               className=" mx-auto font-dream box-s2  text-lg text-white bg-[#000000] hover:bg-[#1a4093] rounded-xl p-2 border-2 border-[#d12f1c]  hover:text-[#fff] text-center font-bold uppercase"
             >
               {" "}
