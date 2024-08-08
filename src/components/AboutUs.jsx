@@ -22,7 +22,7 @@ function AboutUs() {
           </div>
 
           <div
-            className=" w-full sm:w-1/2 border-4 border-[#d12f1c] bg-[#157494] rounded-xl p-2"
+            className=" w-full sm:w-1/2 border-4 border-[#d12f1c] bg-[#1574948f] rounded-xl p-2 backdrop-blur-sm"
             data-aos="zoom-in-left"
             data-aos-duration="1500"
           >

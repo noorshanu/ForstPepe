@@ -36,11 +36,11 @@ const Slider = () => {
     <div className="slider h-auto sm:h-[320px] ">
       <div className="slider-content">
         <div className="slide" key={currentStep}>
-          <h2 className=' font-bold font-dream text-2xl py-2 text-white'>{steps[currentStep].title}</h2>
-          <h2 className=' font-bold font-dream text-3xl py-2 text-white'>{steps[currentStep].pretitle}</h2>
+          <h2 className=' font-bold text-4 text-sad text-4xl py-2 text-black font-snow'>{steps[currentStep].title}</h2>
+          <h2 className=' font-bold font-dream text-3xl py-2 text-black'>{steps[currentStep].pretitle}</h2>
           <p className=' text-white'>{steps[currentStep].content}</p>
         </div>
-        <button onClick={handleNext} className=' font-bold text-2xl font-dream flex items-center gap-2 text-white'> <FaArrowRightLong /> Next</button>
+        <button onClick={handleNext} className=' font-bold text-2xl font-dream flex items-center gap-2 text-black'> <FaArrowRightLong /> Next</button>
       </div>
       <div className="indicator-container">
         {steps.map((step, index) => (

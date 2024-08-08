@@ -7,7 +7,7 @@ function HowToBuy() {
       <div className=" container-wrapper">
         <div className=" flex items-center justify-center gap-4">
           <div
-            className=" bg-[#157494] border-4 border-[#9f1211] box-s2 rounded-3xl py-8 px-4 w-1/2 h-full"
+            className=" bg-[#1574948f] border-4 border-[#9f1211] box-s2 rounded-3xl py-8 px-4 w-1/2 h-full backdrop-blur-sm"
             data-aos="fade-right"
             data-aos-duration="1500"
           >
@@ -21,7 +21,7 @@ function HowToBuy() {
           </div>
 
           {/* <div
-            className="bg-[#157494] border-4 border-[#984322] box-s2 rounded-3xl p-2 h-full"
+            className="bg-[#1574948f] border-4 border-[#984322] box-s2 rounded-3xl p-2 h-full"
             data-aos="fade-left"
             data-aos-duration="1500"
           >
@@ -31,7 +31,7 @@ function HowToBuy() {
 
         <div className=" flex items-center flex-col sm:flex-row justify-center gap-4 mt-2">
           <div
-            className=" bg-[#157494] border-4 border-[#9f1211]  box-s2 rounded-3xl py-8 px-4 flex flex-col justify-center items-center gap-4"
+            className=" bg-[#1574948f] border-4 border-[#9f1211]  box-s2 rounded-3xl py-8 px-4 flex flex-col justify-center items-center gap-4 backdrop-blur-sm"
             data-aos="fade-right"
             data-aos-duration="1500"
           >
@@ -49,7 +49,7 @@ function HowToBuy() {
           </div>
 
           <div
-            className="bg-[#157494] border-4 border-[#9f1211]  box-s2 rounded-3xl p-4 w-full sm:w-1/2 "
+            className="bg-[#1574948f] border-4 border-[#9f1211]  box-s2 rounded-3xl p-4 w-full sm:w-1/2  backdrop-blur-md"
             data-aos="fade-left"
             data-aos-duration="1500"
           >
