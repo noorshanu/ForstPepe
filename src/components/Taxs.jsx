@@ -2,12 +2,12 @@ import React from "react";
 
 function Taxs() {
   return (
-    <section className="bg-[#0f131c] pt-[10%] pb-[8%]  relative hero-main2 "  >
+    <section className="bg-[#0f131c] pt-[10%] pb-[8%]  relative  "  >
 
 <div className=" relative flex flex-col sm:flex-row justify-evenly items-center gap-8 pb-[4%] "  >
         
 
-        <h1 className=" text-3xl sm:text-8xl font-bold text-black font-snow text-sad" data-aos="zoom-in-up"
+        <h1 className=" text-3xl sm:text-8xl font-bold text-white font-dream txt-s" data-aos="zoom-in-up"
         data-aos-duration="1500">
           Tokenomics
         </h1>
@@ -67,9 +67,9 @@ function Taxs() {
 
       <div className=" flex justify-center flex-col items-center">
         <div>
-            <p className=" text-center text-black mt-4">$SPEPE UTILITY TOKEN - SOLANA CHAIN </p>
+            <p className=" text-center text-white  mt-4">$SPEPE UTILITY TOKEN - SOLANA CHAIN </p>
 
-            <h1 className=" text-xl sm:text-5xl font-bold font-snow text-sad text-center text-black py-2">
+            <h1 className=" text-xl sm:text-5xl font-bold font-dream  text-center text-white py-2">
             Total Supply 1.000.000.000
             </h1>
             <p className="text-center text-black font-bold mt-4 bg-[#157494] border-[#dd3333] border-2 py-2 rounded-xl">

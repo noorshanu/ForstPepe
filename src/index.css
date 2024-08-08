@@ -62,7 +62,10 @@
 body {
   background-color: #ffffff;
 }
-
+.txt-s{
+  -webkit-text-stroke: 0.5px rgb(0, 0, 0);
+text-stroke: 0.5px rgb(0, 0, 0);
+}
 .hero-main {
   background-image: url(../public/images/bg5.jpeg);
   background-repeat: no-repeat;

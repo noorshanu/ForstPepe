@@ -9,7 +9,7 @@ function Hero() {
         <div>
         
      <h1    data-aos="zoom-in-up"
-          data-aos-duration="1500" className=" text-3xl sm:text-9xl text-sad font-bold font-snow text-center">SnowPEPE</h1>
+          data-aos-duration="1500" className=" text-3xl sm:text-9xl  font-bold font-snow text-center txt-s text-white">SnowPEPE</h1>
           {/* <a href="/" className="text-sm sm:text-2xl font-bold text-center flex justify-center my-4"> </a> */}
         </div>
         <img
