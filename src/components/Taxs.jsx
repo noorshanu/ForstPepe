@@ -19,10 +19,10 @@ function Taxs() {
       <div
       data-aos="zoom-in-up"
     data-aos-duration="1500"
-      className=" container-wrapper bg-[#171c22] border-4  border-purple-700 rounded-3xl box-s2 py-4 px-4 relative z-20 flex flex-col sm:flex-row justify-between gap-4">
+      className=" container-wrapper bg-[#157494] border-4  border-[#d12f1c] rounded-3xl box-s2 py-4 px-4 relative z-20 flex flex-col sm:flex-row justify-between gap-4">
         <a
           href="#"
-          className="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700 w-full sm:w-[250px]"
+          className="block max-w-sm p-6  w-full sm:w-[250px]"
         >
           <img src="/images/g4.png" alt="" className=" mx-auto" />
           <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white text-center font-dream ">
@@ -33,7 +33,7 @@ function Taxs() {
 
         <a
           href="#"
-          className="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700 w-full sm:w-[250px]"
+          className="block max-w-sm p-6  w-full sm:w-[250px]"
         >
           <img src="/images/g3.png" alt="" className=" mx-auto" />
           <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white text-center font-dream ">
@@ -44,7 +44,7 @@ function Taxs() {
 
         <a
           href="#"
-          className="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700 w-full sm:w-[250px]"
+          className="block max-w-sm p-6  w-full sm:w-[250px]"
         >
           <img src="/images/g2.png" alt="" className=" mx-auto" />
           <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white text-center font-dream ">
@@ -55,7 +55,7 @@ function Taxs() {
 
         <a
           href="#"
-          className="block max-w-sm p-6 bg-white border border-gray-200 rounded-lg shadow hover:bg-gray-100 dark:bg-gray-800 dark:border-gray-700 dark:hover:bg-gray-700 w-full sm:w-[250px]"
+          className="block max-w-sm p-6  w-full sm:w-[250px]"
         >
           <img src="/images/g5.png" alt="" className=" mx-auto" />
           <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white text-center font-dream ">
@@ -67,12 +67,12 @@ function Taxs() {
 
       <div className=" flex justify-center flex-col items-center">
         <div>
-            <p className=" text-center text-yellow-300 mt-4">$PUPE UTILITY TOKEN - SOLANA CHAIN </p>
+            <p className=" text-center text-black mt-4">$PUPE UTILITY TOKEN - SOLANA CHAIN </p>
 
-            <h1 className=" text-xl sm:text-5xl font-bold font-dream text-center text-white py-2">
+            <h1 className=" text-xl sm:text-5xl font-bold font-snow text-sad text-center text-black py-2">
             Total Supply 1.000.000.000
             </h1>
-            <p className="text-center text-yellow-300 mt-4">
+            <p className="text-center text-black font-bold mt-4 bg-[#157494] border-[#dd3333] border-2 py-2 rounded-xl">
             Contract Adress: 84LSrwyBiU7agZ9oBVVRt783fP8jZssGDVmVXr4r5eez
             </p>
         </div>

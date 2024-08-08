@@ -31,7 +31,7 @@ function HowToBuy() {
 
         <div className=" flex items-center flex-col sm:flex-row justify-center gap-4 mt-2">
           <div
-            className=" bg-[#157494] border-4 border-[#984322]  box-s2 rounded-3xl py-8 px-4 flex flex-col justify-center items-center gap-4"
+            className=" bg-[#157494] border-4 border-[#9f1211]  box-s2 rounded-3xl py-8 px-4 flex flex-col justify-center items-center gap-4"
             data-aos="fade-right"
             data-aos-duration="1500"
           >
@@ -42,14 +42,14 @@ function HowToBuy() {
             />
             <a
               href="/"
-              className=" bg-black border-2  border-[#984322] px-4 py-1 text-white  rounded-full text-2xl font-bold font-dream"
+              className=" bg-black border-2  border-[#9f1211] px-4 py-1 text-white  rounded-full text-2xl font-bold font-dream"
             >
               Buy $PUPE
             </a>
           </div>
 
           <div
-            className="bg-[#157494] border-4 border-[#984322]  box-s2 rounded-3xl p-4 w-full sm:w-1/2 "
+            className="bg-[#157494] border-4 border-[#9f1211]  box-s2 rounded-3xl p-4 w-full sm:w-1/2 "
             data-aos="fade-left"
             data-aos-duration="1500"
           >

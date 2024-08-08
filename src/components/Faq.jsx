@@ -4,22 +4,24 @@ import Accordion from './Accordion'
 function Faq() {
   return (
    <section>
-    <div className=' container-wrapper'>
-        <div className=' bg-[#171c22] border-4 border-purple-700   rounded-3xl p-4'>
+    <div >
+        <div className='   rounded-3xl'>
 
-            <h1 className=' text-3xl sm:text-7xl font-dream font-bold text-center text-white'>FAQ $PUPE</h1>
+        
 
             <div className=' flex justify-around items-center flex-col sm:flex-row'>
 
-              <div className=' border-4 rounded-3xl box-s2 border-purple-700 p-4'>
 
-                
+              <img src="images/img2.jpeg" alt="" className='h-auto sm:h-[500px]' />
 
-              </div>
+              <img src="images/img3.jpeg" alt="" className=' h-auto sm:h-[500px]' />
+              <img src="images/img1.jpeg" alt="" className=' h-auto sm:h-[500px]' />
+              <img src="images/img4.jpeg" alt="" className=' h-auto sm:h-[500px]' />
+         
 
             </div>
 
-            <Accordion/>
+            {/* <Accordion/> */}
 
         </div>
 
