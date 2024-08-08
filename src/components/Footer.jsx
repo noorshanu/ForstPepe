@@ -31,7 +31,7 @@ function Footer() {
                 </a>
               </div>
 
-            <p className=" text-white">Copyright 2024 ----  All Rights Reserved.</p>
+            <p className=" text-white">Copyright 2024 SnowPepe  All Rights Reserved.</p>
             </div>
 
             <div className=" mt-[5%]">

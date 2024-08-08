@@ -5,7 +5,7 @@ function DexMark() {
   return (
     <section className=" overflow-x-hidden bg-[#9f1211] py-6 ">
       <h1 className=" text-center text-2xl sm:text-4xl text-white py-6">
-      Onchain Data ⟱ $PUPE is now available on the following platforms.
+      Onchain Data ⟱ $SPEPE is now available on the following platforms.
       </h1>
       <div className=" relative">
         <div className=" my-4 ">

@@ -9,7 +9,7 @@ function Hero() {
         <div>
         
      <h1    data-aos="zoom-in-up"
-          data-aos-duration="1500" className=" text-3xl sm:text-8xl text-sad font-bold font-snow text-center">FrostyPEPE</h1>
+          data-aos-duration="1500" className=" text-3xl sm:text-9xl text-sad font-bold font-snow text-center">SnowPEPE</h1>
           {/* <a href="/" className="text-sm sm:text-2xl font-bold text-center flex justify-center my-4"> </a> */}
         </div>
         <img
@@ -81,21 +81,21 @@ function Hero() {
           <div className=" flex justify-center items-center gap-4 w-full max-w-[200px] sm:max-w-[250px] mx-auto py-4">
             <div className=" h-[1px] w-[18px] bg-[#d12f1c] hidden sm:block"></div>
             <a
-              href="https://www.dextools.io/app/en/solana/pair-explorer/BmJzRiQyEwXB6kPADAc3xUGn68Yu5wkNSmZbjspjAvnS?t=1721393113503"
+              href="https://www.dextools.io/app/en/solana"
               className=" mx-auto font-dream box-s2  text-lg text-white bg-[#000000] hover:bg-[#1a4093] rounded-xl p-1 px-2 border-2 border-[#d12f1c]  hover:text-[#fff] text-center font-bold uppercase"
             >
               {" "}
               <img src="/images/dex.png" alt="" className=" h-[30px] w-auto" />
             </a>
             <a
-              href="https://t.me/PurplePepe_sol"
+              href="https://t.me/"
               className=" mx-auto font-dream box-s2  text-3xl text-white bg-[#000000] hover:bg-[#1a4093] rounded-xl p-1 border-2 border-[#d12f1c]  hover:text-[#fff]  text-center font-bold uppercase"
             >
               {" "}
               <BsTelegram />{" "}
             </a>
             <a
-              href="https://x.com/PurplePepe_Sol"
+              href="https://x.com/"
               className=" mx-auto font-dream box-s2  text-lg text-white bg-[#000000] hover:bg-[#1a4093] rounded-xl p-2 border-2 border-[#d12f1c]  hover:text-[#fff] text-center font-bold uppercase"
             >
               {" "}

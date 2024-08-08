@@ -67,13 +67,13 @@ function Taxs() {
 
       <div className=" flex justify-center flex-col items-center">
         <div>
-            <p className=" text-center text-black mt-4">$PUPE UTILITY TOKEN - SOLANA CHAIN </p>
+            <p className=" text-center text-black mt-4">$SPEPE UTILITY TOKEN - SOLANA CHAIN </p>
 
             <h1 className=" text-xl sm:text-5xl font-bold font-snow text-sad text-center text-black py-2">
             Total Supply 1.000.000.000
             </h1>
             <p className="text-center text-black font-bold mt-4 bg-[#157494] border-[#dd3333] border-2 py-2 rounded-xl">
-            Contract Adress: 84LSrwyBiU7agZ9oBVVRt783fP8jZssGDVmVXr4r5eez
+            Contract Adress:coming Soon.....
             </p>
         </div>
 
