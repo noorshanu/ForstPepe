@@ -7,14 +7,14 @@ function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className=" border-b border-[#000000]  py-1  w-full z-40 bg-[#ffffff00]">
+    <nav className=" border-b border-[#000000]  py-1  w-full z-40 bg-[#ffffff00] backdrop-blur-sm">
       <div className="max-w-6xl mx-auto  flex justify-between items-center   px-4 py-1 ">
         {/* Logo */}
         <div className="flex items-center flex-shrink-0 mr-6">
         <a href="/" className="flex items-center space-x-3 rtl:space-x-reverse">
           <img src="images/logo.png" className="h-[70px]" alt=" Logo" />
 
-          <h1 className="v font-snow text-sad text-xl sm:text-4xl font-bold text-black ">$SPEPE</h1>
+          <h1 className="v font-snow text-xl sm:text-4xl font-bold text-white txt-s ">$SPEPE</h1>
         </a>
 
         </div>
