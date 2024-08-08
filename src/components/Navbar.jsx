@@ -21,11 +21,11 @@ function Navbar() {
 
         {/* Navigation menu */}
         <div className="hidden md:flex flex-grow justify-center">
-          <a href="/" className="text-black font-bold text-lg px-3 py-2">Home</a>
-          <a href="#about" className="text-black font-bold text-lg px-3 py-2">About</a>
-          <a href="#col" className="text-black font-bold text-lg px-3 py-2">Tokenomics</a>
+          <a href="/" className="text-white font-bold text-lg px-3 py-2">Home</a>
+          <a href="#about" className="text-white font-bold text-lg px-3 py-2">About</a>
+          <a href="#col" className="text-white font-bold text-lg px-3 py-2">Tokenomics</a>
          
-          <a href="#contact" className="text-black font-bold text-lg px-3 py-2">Contact Us</a>
+          <a href="#contact" className="text-white font-bold text-lg px-3 py-2">Contact Us</a>
         </div>
 
         {/* Wallet Connect button */}
